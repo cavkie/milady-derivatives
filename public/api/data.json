@@ -8,6 +8,14 @@
     "image": "/api/images/philady.jpg"
   },
   {
+    "openseaId": "say-milady",
+    "name": "Say Milady",
+    "description": "Banner NFT collection of Japanese dolls, sweet shop Russian supercomputers, semi-vintage magazine covers, and Pixelady friends – who say, Milady",
+    "chainId": 1,
+    "volume": 42,
+    "image": "/api/images/say-milady.png"
+  },
+  {
     "openseaId": "discount-knockoff-miladysaver-pfp-project-tbh",
     "name": "Discount knockoff MiladySaver pfp project tbh",
     "description": "Discount knockoff MiladySaver pfp project tbh is a collection of 10,000 degenerated pfpNFT's in a lofichibi aesthetic inspired by a tweet.",
